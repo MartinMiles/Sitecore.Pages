@@ -1,4 +1,4 @@
-# Sitecore.Pages
+# Sitecore.AdminPages
 
 A collection of useful pages and handlers to work with Sitecore, including those placed under `/Sitecore/admin` folder.
 

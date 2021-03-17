@@ -9,3 +9,7 @@ This one is helpful for getting alltogether patched configurtion on CD instances
 ### 2. AD Groups
 
 This page shows up currect user and all the groups mapped from Active Directory. This is helpful when troubleshooting claims mapping with Identity Server.
+
+### 3. Migrate Dynamic Placeholders
+
+A page for migration Sitecore 8.x dynamic placeholders into a OOB Sitecore 9.x format.
